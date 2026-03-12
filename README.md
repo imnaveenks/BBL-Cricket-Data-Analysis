@@ -21,16 +21,17 @@ teams and players.
 ## Visualisations
 
 ### Top Run Scorers
-![Top Run Scorers](Visuals/Top Run scorers.png)
+![Top Run Scorers](https://raw.githubusercontent.com/imnaveenks/BBL-Cricket-Data-Analysis/main/Visuals/Top%20Run%20scorers.png)
 
 ### Toss Impact
-![Toss Impact](Visuals/Does winning the toss help?.png)
+![Toss Impact](https://raw.githubusercontent.com/imnaveenks/BBL-Cricket-Data-Analysis/main/Visuals/Does%20winning%20the%20toss%20help%3F.png)
 
 ### BBL Team Wins
-![Team Wins](Visuals/BBL Team wins all time.png)
+![Team Wins](https://raw.githubusercontent.com/imnaveenks/BBL-Cricket-Data-Analysis/main/Visuals/BBL%20Team%20wins%20all%20time.png)
 
 ### Perth Home vs Away
-![Home vs Away](Visuals/Perth Home Vs Away.png)
+![Home vs Away](https://raw.githubusercontent.com/imnaveenks/BBL-Cricket-Data-Analysis/main/Visuals/Perth%20Home%20Vs%20Away.png)
+
 
 
 
