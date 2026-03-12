@@ -22,12 +22,6 @@ teams and players.
 Big Bash League dataset from Kaggle containing match summaries 
 and ball by ball delivery data across multiple BBL seasons.
 
-### Top Run Scorers
-![Top Run Scorers](visuals/Top Run scorers.png)
-
-### Toss Impact
-![Toss Impact](visuals/Does winning the toss help?.png)
-
 ## Author
 Naveen KS
 
